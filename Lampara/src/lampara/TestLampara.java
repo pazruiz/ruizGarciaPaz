@@ -23,6 +23,7 @@ public class TestLampara {
 		lampara.apagar();
 		//acceso al campo encendida de la clase Lampara
 		lampara.getEncendida();
+		System.out.println("La bombilla se ha fundido");
 	}
 
 }
