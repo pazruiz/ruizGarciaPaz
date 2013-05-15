@@ -30,4 +30,3 @@ public class Lampara {
 		encendida = false;
 	}
 }
-// añado comentario a proyecto de paz
