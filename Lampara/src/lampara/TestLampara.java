@@ -24,7 +24,7 @@ public class TestLampara {
 		//acceso al campo encendida de la clase Lampara
 		lampara.getEncendida();
 		System.out.println("La bombilla se ha fundido");
-		System.out.println("Fran va a cambiar la bonmbilla");
+		System.out.println("Fran va a cambiar la bombilla");
 		
 	}
 
