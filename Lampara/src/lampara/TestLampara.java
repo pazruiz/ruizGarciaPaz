@@ -1,13 +1,13 @@
-/**2. Añadiendo comentarios de línea en la nueva clase TestLampara, indica en qué parte del código se:
+/**2. Aï¿½adiendo comentarios de lï¿½nea en la nueva clase TestLampara, indica en quï¿½ parte del cï¿½digo se:
  * Instancia un objeto = new
- * Invoca a un método = lampara.metodo()
+ * Invoca a un mï¿½todo = lampara.metodo()
  * Accede a un campo = getCampo
  * 
- * 3. ¿Aparece el constructor? ¿Por qué?
+ * 3. ï¿½Aparece el constructor? ï¿½Por quï¿½?
  * 
  * No, invoca al padre
  * 
- * @author Paz Ruiz García
+ * @author Paz Ruiz Garcï¿½a
  * 
  */
 package lampara;
@@ -15,15 +15,17 @@ package lampara;
 public class TestLampara {
 
 	public static void main(String[] args) {
-		//Inicialización de un objeto lámpara
+		//Inicializaciï¿½n de un objeto lï¿½mpara
 		Lampara lampara = new Lampara();
 		
-		//instancia de la clase Lámpara
+		//instancia de la clase Lï¿½mpara
 		lampara.encender();
 		lampara.apagar();
 		//acceso al campo encendida de la clase Lampara
 		lampara.getEncendida();
 		System.out.println("La bombilla se ha fundido");
+		System.out.println("Fran va a cambiar la bonmbilla");
+		
 	}
 
 }
